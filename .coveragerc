@@ -1,0 +1,5 @@
+[run]
+include = parimatch/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
